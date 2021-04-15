@@ -9,3 +9,7 @@ int main() {
 Output
 
 Hello, World!
+PYTHON
+# This program prints Hello, world!
+
+print('Hello, world!')
